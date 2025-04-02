@@ -280,6 +280,16 @@ Link: https://esajournals.onlinelibrary.wiley.com/doi/full/10.1890/ES14-00402.1
 
 ---
 
+## TEDxCapeTown: Mike Markovina - Moving Sushi
+
+Moving Sushi co-founder Mike Markovina discusses the findings of the Marine Resource Expedition (2008–2010), a 24-month trip through 42 nations that documented successful marine conservation initiatives. In order to comprehend the social, economic, and ecological aspects of marine resource protection, he highlights the significance of open-access data and cooperative research.  Markovina emphasises that transparent research and efficient data management are essential for well-informed decision-making and long-term marine conservation strategies.  In order to bring about significant change, he promotes a change in viewpoint that emphasises community involvement and the human aspects of managing maritime resources.  By means of narratives and visual documentation, Markovina demonstrates how information exchange and transparency may motivate group efforts to save our oceans.
+
+Link: https://www.youtube.com/watch?v=jvnjOUWk4js
+
+> Contributor: Demi 
+
+---
+
 ## A taxonomy for reproducible and replicable research in environmental modelling (B.T Essawy et al., 2020).
 
 The paper discusses how cyberinfrastructure aids in reproducible workflows. It highlights tools such as GitHub and Figshare while introducing a new tool called Sciunit (http://sciunit.run). Sciunit integrates all digital artifacts of a research project—including code, data, and scripts—alongside the research paper, providing a more complete record of the research. Prior studies found that Sciunit improved reproducibility in computational analysis but lacked mechanisms for community sharing. In contrast, another tool called Hydroshare (http://www.hydroshare.org) enables the sharing of code, data, and metadata but does not confine all research components into a single package. Therefore, using Sciunit and Hydroshare together offers the best solution: Sciunit packages data and code, while Hydroshare aids in sharing within a broader community.

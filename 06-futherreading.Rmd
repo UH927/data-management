@@ -276,7 +276,17 @@ Hampton et al. (2015) logically and enthusiastically advocate for a shift in min
 
 Link: https://esajournals.onlinelibrary.wiley.com/doi/full/10.1890/ES14-00402.1
 
-Contributor: Arwenn
+> Contributor: Arwenn
+
+---
+
+## Keeping a Paper Trail: Data Management Skills for Reproducible Science (Dr K. Laskowski)
+
+This YouTube video provides an insightful overview of the importance of data integrity in reproducible research, using an analogy of the data life cycle as the growth of a child. It mentions how the development of the child (data) from birth to maturity (collection to publication) must be documented by you, the parent (author). The video outlines several practices for maintaining data quality, including documenting each stage of the data collection process, carefully entering and cleaning data, and using tools like R and GitHub to track changes. Now that I have acquired the skill of using those software tools, I too understand the value of using them to track changes. The use of RMarkdown is highlighted as a useful tool to generate reproducible results by combining code and output in a single document. The final step is to deposit both data and code into a public repository, making research open and available for collaboration and correction of errors. This is crucial for reproducible science, as it enables transparency and helps avoid mistakes. The video's message emphasizes the relevance of reproducible research and data management in ensuring the credibility and reliability of scientific findings, particularly in the context of biology, where data accuracy and integrity is vital for understanding complex systems, which cannot communicate (through language, at least) themselves.
+
+Link: https://www.youtube.com/watch?v=58FUfrIM6bE 
+
+> Contributor: Taylor; Github username: @taylormgilbert 
 
 ---
 
@@ -284,12 +294,11 @@ Contributor: Arwenn
 
 Soundararajan, S., Mishra, S., 2023. This paper highlights the importance of good data management in producing credible research findings. The authors claim that data collection is an often overlooked yet, important aspect that should be considered to reduce research misconduct. Some of the important aspects identified in this paper include data preparation that involves proper organization of the files, use of correctly labelled folders, and proper documentation to make sure that data is easily understood and easily accessible. They also stress on the interoperability that enables other people to use the data without the help of the primary investigators, data storage and sharing policies including data management plans.  The paper is significant as it focuses on a real yet rarely addressed issue in research. While the discussions on methodology and analysis are frequent, this paper brings to light the otherwise hidden work of data management and how it directly impacts the quality and replicability of research conclusions.  The authors have come up with a set of practical steps that any researcher can use in any field to ensure that data is handled properly and that weakens the scientific process. It is a call for researchers to progress from merely producing data to managing it as a product which can be used again.
 
-
 > Contributor: Amarah
-Link: https://pmc.ncbi.nlm.nih.gov/articles/PMC10880825/
-Reference: Soundararajan, S., Mishra, S., 2023. Data management: The first step in reproducible research. Indian J Occup Environ Med 27(4), 359-363.
 
----
+Link: https://pmc.ncbi.nlm.nih.gov/articles/PMC10880825/
+
+Reference: Soundararajan, S., Mishra, S., 2023. Data management: The first step in reproducible research. Indian J Occup Environ Med 27(4), 359-363.
 
 ---
 
@@ -376,7 +385,6 @@ Link: https://doi.org/10.1002/wsb.847
 
 ---
 
----
 ## How FAIR are plant sciences in the twenty-first century? The pressing need for reproducibility in plant ecology and evolution
 
 The paper states that the 21st century is the century of data science. It then proceeds to place emphasis on why plant ecological and evolutionary studies must acknowledge how important specimens are as primary data. Herbarium specimens are often neglected during collection, by authors. The collection and availability to the public of specimens is crucial because if only data was accessible, meta-analyses errors may occur due to there being no specimen revisits and verifications. In doing so, the FAIR principles are obeyed and as a result, original data can be used in reproducible research to further education. The paper also touches on why specimen preservation is now a rare practice. It is because of lack of training and shifts towards more modern practices.
@@ -384,3 +392,4 @@ The paper states that the 21st century is the century of data science. It then p
 Link: https://doi.org/10.1098/rspb.2020.2597
 
 > Contributor: Naval
+
